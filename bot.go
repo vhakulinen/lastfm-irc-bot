@@ -15,7 +15,7 @@ const (
 	// FeedURLStart is beginning of the url which needs username and
 	// FeedURLEnd added
 	FeedURLStart = "http://ws.audioscrobbler.com/1.0/user/"
-	// FeedURLEnd is meant to be used with FeedURLEdn
+	// FeedURLEnd is meant to be used with FeedURLStart
 	FeedURLEnd = "/recenttracks.rss"
 )
 
